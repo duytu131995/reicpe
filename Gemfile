@@ -55,3 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #duytu
 gem 'haml', '~> 5.1', '>= 5.1.2'
+gem 'simple_form', '~> 5.0', '>= 5.0.2'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+gem 'paperclip', '~> 6.1'
+gem 'cocoon'
